@@ -1,0 +1,8 @@
+{
+  "name": "stp",
+  "version": "1.0.0",
+  "description": "A rock paper scissors game made for no reason. If you have questions contact: Springles#0001.",
+  "main": "index.html",
+  "author": "Springles(Javascript, html, css, folder sytem), TheKnickgo(html, css, layouts, designs and logos), LordKnord(html, CSS)",
+  "license": "MIT"
+}
