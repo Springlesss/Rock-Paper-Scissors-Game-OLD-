@@ -9,3 +9,8 @@ Springles: HTML, CSS, Javascript, Foldersystem
 <h3>License</h3>
 
 It has the MIT license, so feel free to use it as you wish.
+
+
+<h3>Future</h3>
+
+The only thing that will change is the money system.
